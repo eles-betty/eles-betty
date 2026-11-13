@@ -26,7 +26,17 @@ These are interests and learning goals, not a claim of professional experience.
 
 <p align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,flutter,php,mysql,nginx,godot,vscode,arduino,blender,windows,linux,mac,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,flutter,php" />
+  </a>
+</p>
+<p align="center">
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,nginx,godot,vscode,arduino,blender" />
+  </a>
+</p>
+<p align="center">
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,debian,apple,raspberrypi" />
   </a>
 </p>
 
