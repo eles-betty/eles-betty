@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Indonesia-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Indonesia" />
-  <img src="https://img.shields.io/badge/Focus-Learning%20by%20making-8b5cf6?style=flat-square" alt="Focus: Learning by making" />
+  <a href="README.md"><img src="https://img.shields.io/badge/Read-English-2563eb?style=flat-square" alt="Read in English" /></a>
+  <a href="README.id.md"><img src="https://img.shields.io/badge/Baca-Bahasa%20Indonesia-e11d48?style=flat-square" alt="Baca dalam Bahasa Indonesia " /></a>
 </p>
 
 ## About me
@@ -40,7 +40,7 @@ These are interests and learning goals, not a claim of professional experience.
   </a>
 </p>
 
-**Also curious about:** Unity · Affinity · GarageBand · Local AI Models · Other Open Source - Free Apps
+**Also curious about:** Unity · Affinity  · Local AI Models · Other Open Source - Free Apps
 
 ## How I like to build
 
