@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Eles Betty — developer and maker</title>
+  <desc id="desc">A dark banner with colorful abstract shapes and the words Code, Create, Optimize.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101a32"/>
+      <stop offset="1" stop-color="#202b43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <circle cx="1040" cy="42" r="150" fill="#7dd3fc" opacity=".09"/>
+  <circle cx="1130" cy="240" r="115" fill="#c4b5fd" opacity=".11"/>
+  <path d="M870 78l62 72-62 72M1000 222l-62-72 62-72" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
+  <text x="76" y="112" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="27" font-weight="600" letter-spacing="3">HELLO, I'M</text>
+  <text x="72" y="184" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="62" font-weight="750">Eles Betty</text>
+  <text x="77" y="232" fill="#cbd5e1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="23">Code · Create · Optimize</text>
+  <rect x="77" y="256" width="120" height="5" rx="3" fill="url(#accent)"/>
+</svg>
